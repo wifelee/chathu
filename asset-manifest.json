@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/main.079c14ae.css",
-    "main.js": "/main.951afe52.js",
-    "787.1e88a2ce.chunk.js": "/787.1e88a2ce.chunk.js",
-    "loading.gif": "/loading.e8c5202b6f88ff80c4ab.gif",
+    "main.css": "/chathu/main.079c14ae.css",
+    "main.js": "/chathu/main.30a148fb.js",
+    "chathu/787.1e88a2ce.chunk.js": "/chathu/787.1e88a2ce.chunk.js",
+    "chathu/loading.gif": "/chathu/loading.e8c5202b6f88ff80c4ab.gif",
     "index.html": "/index.html",
-    "main.079c14ae.css.map": "/main.079c14ae.css.map",
-    "main.951afe52.js.map": "/main.951afe52.js.map",
-    "787.1e88a2ce.chunk.js.map": "/787.1e88a2ce.chunk.js.map"
+    "main.079c14ae.css.map": "/chathu/main.079c14ae.css.map",
+    "main.30a148fb.js.map": "/chathu/main.30a148fb.js.map",
+    "787.1e88a2ce.chunk.js.map": "/chathu/787.1e88a2ce.chunk.js.map"
   },
   "entrypoints": [
-    "main.079c14ae.css",
-    "main.951afe52.js"
+    "chathu/main.079c14ae.css",
+    "chathu/main.30a148fb.js"
   ]
 }
